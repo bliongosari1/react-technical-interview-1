@@ -30,6 +30,9 @@ Ensure that the dropdown does not contain duplicate nationalities.
 
 Default option should be "All" to display users of all nationalities.
 
+**2. Search Functionality - bonus Q **
+Let's imagine we are calling an API for this search, how would you handle it? Can do pseudocode or explain
+
 Example: https://bliongosari-user-exercise.vercel.app/
 
 <img width="1512" alt="Screenshot 2024-05-26 at 6 16 17 pm" src="https://github.com/bliongosari1/react-technical-interview-1/assets/95192747/dfab1d92-1571-4862-a8df-3af777a2fc33">
