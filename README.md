@@ -30,8 +30,9 @@ Ensure that the dropdown does not contain duplicate nationalities.
 
 Default option should be "All" to display users of all nationalities.
 
-**2. Search Functionality - bonus Q **
-Let's imagine we are calling an API for this search, how would you handle it? Can do pseudocode or explain
+**3. Mock this search using an mock/fake API (bonus Q)**
+
+- Let's imagine we are calling an API for this search, how would you handle it? Can do pseudocode or explain
 
 Example: https://bliongosari-user-exercise.vercel.app/
 
